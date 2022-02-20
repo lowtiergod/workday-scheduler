@@ -15,7 +15,7 @@ textarea{
   width: 920px;
 }
 
-/* here comes the jumbo-dumbo-tron */
+/* styles the jumbotron */
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -42,7 +42,7 @@ textarea{
   height: 80px;
   border-top: 1px solid white;;
 }
-/* this hour is for the 9:00am-7:00pm area */
+/* styles the 9:00am-7:00pm area */
 .hour {
   background-color: #ffffff;
   color: #000000;
@@ -67,7 +67,7 @@ textarea{
   color: white;
 }
 
-/*this style is for the button area that saves the tasks */
+/* custom button to save the task */
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
@@ -78,7 +78,7 @@ textarea{
   font-size: 20px;
 }
 
-/*the hover for the button */
+/*style for when you hover over the button */
 .saveBtn i:hover {
   font-size: 40px;
   transition: all .3s ease-in-out;
